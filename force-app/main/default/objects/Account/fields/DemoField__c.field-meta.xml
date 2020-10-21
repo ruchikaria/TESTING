@@ -3,7 +3,7 @@
     <fullName>DemoField__c</fullName>
     <externalId>false</externalId>
     <label>DemoField</label>
-    <precision>17</precision>
+    <precision>19</precision>
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
