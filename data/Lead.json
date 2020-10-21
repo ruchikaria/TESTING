@@ -1,0 +1,13 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef1"
+            },
+            "FirstName": "asbc",
+            "LastName": "xyz",
+            "Company": "cg"
+        }
+    ]
+}
